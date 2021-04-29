@@ -6,8 +6,6 @@ public class ServerDTO {
     private Integer load;
 
 
-
-
     public String getIp() {
         return ip;
     }

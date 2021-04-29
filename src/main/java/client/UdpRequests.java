@@ -2,7 +2,6 @@ package client;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import gameServer.TcpServer;
 import utils.ServerDTO;
 
 import java.io.IOException;

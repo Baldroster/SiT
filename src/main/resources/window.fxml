@@ -15,9 +15,9 @@
             <Font size="18.0" />
           </font>
         </Label>
-            <Button fx:id="but1" layoutX="206.0" layoutY="105.0" mnemonicParsing="false" onAction="#but1Clicked" prefHeight="88.0" prefWidth="181.0" text="Камень" />
-            <Button fx:id="but2" layoutX="206.0" layoutY="220.0" mnemonicParsing="false" onAction="#but2Clicked" prefHeight="88.0" prefWidth="181.0" text="Ножницы" />
-            <Button fx:id="but3" layoutX="206.0" layoutY="346.0" mnemonicParsing="false" onAction="#but3Clicked" prefHeight="88.0" prefWidth="181.0" text="Бумага" />
+            <Button fx:id="but1" layoutX="251.0" layoutY="128.0" mnemonicParsing="false" onAction="#but1Clicked" prefHeight="88.0" prefWidth="90.0" text="Наперсток 1" />
+            <Button fx:id="but2" layoutX="78.0" layoutY="332.0" mnemonicParsing="false" onAction="#but2Clicked" prefHeight="88.0" prefWidth="90.0" text="Наперсток 2" />
+            <Button fx:id="but3" layoutX="421.0" layoutY="332.0" mnemonicParsing="false" onAction="#but3Clicked" prefHeight="88.0" prefWidth="90.0" text="Наперсток 3" />
       </children>
     </AnchorPane>
   </children>
